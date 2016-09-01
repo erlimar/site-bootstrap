@@ -1,0 +1,22 @@
+{
+    "name": "site-bootstrap",
+    "version": "1.0.0",
+    "description": "Site de exemplo em Bootstrap",
+    "scripts": {
+        "start": "node src/app.js",
+        "gulp": "gulp"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Erlimar Silva Campos",
+        "email": "erlimar@gmail.com",
+        "url": "http://erlimar.com"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "bootstrap": "^4.0.0-alpha.3",
+        "express": "^4.14.0",
+        "gulp": "^3.9.1"
+    },
+    "private": true
+}
